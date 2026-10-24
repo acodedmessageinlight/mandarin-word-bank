@@ -1,0 +1,60 @@
+@1.1|1
+TF|凯瑞是中国人。|F|凯瑞是英国人。|Kerry is Chinese.
+TF|多多住在上海。|T|多多说："我住在上海。"|Duoduo lives in Shanghai.
+MC|多多的生日是几月几号？|九月八号;十二月二十日;七月十六日;十月十日|2|When is Duoduo's birthday?
+SA|凯瑞多大？|凯瑞十四岁。|How old is Kerry? — Kerry is 14.
+@1.1|2
+TF|玛丽是英国人。|F|玛丽是澳大利亚人。|Mary is British.
+TF|玛丽会说英语，不会说法语。|T|她会说英语，不会说法语。|Mary can speak English but not French.
+MC|玛丽上几年级？|七年级;八年级;九年级;十年级|3|What year is Mary in?
+SA|玛丽住在哪里？|她住在新加坡。|Where does Mary live? — Singapore.
+@1.1|3
+TF|王大力来自印尼。|T|"我来自印尼。"|Wang Dali comes from Indonesia.
+TF|王大力最喜欢踢足球。|F|他最喜欢看书，不喜欢踢足球。|Wang Dali likes playing football most.
+MC|王大力会说哪几种语言？|英语和中文;英语、法语和中文;法语和中文;只会说英语|2|Which languages can Wang Dali speak?
+SA|王大力的眼睛和鼻子怎么样？|眼睛小小的，鼻子高高的。|What are his eyes and nose like? — Small eyes, a high nose.
+@1.2|1
+TF|照片里的男孩子是凯瑞的弟弟。|F|他是凯瑞的哥哥。|The boy in the photo is Kerry's younger brother.
+TF|凯瑞的小狗两岁了。|T|"两岁了。"|Kerry's puppy is two years old.
+MC|多多觉得凯瑞的爸爸怎么样？|很胖;很帅;很漂亮;很高|2|What does Duoduo think of Kerry's dad?
+SA|凯瑞说谁很漂亮？|凯瑞说他妈妈很漂亮。|Who does Kerry say is very pretty? — His mum.
+@1.2|2
+TF|"我"家有四口人。|F|有五口人：爸爸、妈妈、哥哥、姐姐和我。|There are four people in the family.
+TF|爸爸是医生，只会说英语。|T|爸爸是医生，只会说英语。|Dad is a doctor and only speaks English.
+MC|哥哥在哪里上大学？|美国;中国;英国;澳大利亚|3|Where does the elder brother go to university?
+SA|咪咪喜欢吃什么？|它喜欢吃鱼。|What does Mimi (the cat) like eating? — Fish.
+@1.2|3
+TF|爸爸比妈妈大三岁。|T|爸爸比妈妈大三岁，但是妈妈比爸爸高。|Dad is three years older than Mum.
+TF|他们一家现在住在中国。|F|他们现在住在法国。|The family now lives in China.
+MC|哥哥将来想做什么？|医生;老师;律师;商人|3|What does the elder brother want to be in the future?
+SA|"我"和姐姐经常一起做什么？|一起出去唱卡拉OK。|What do the writer and her sister often do together? — Go out to sing karaoke.
+@1.3|1
+TF|多多喜欢小猫。|F|多多不喜欢小猫，她喜欢小狗。|Duoduo likes cats.
+TF|凯瑞家有五条鱼。|T|凯瑞家有一只猫、一只兔子和五条鱼。|Kerry's family has five fish.
+MC|他们都不喜欢什么宠物？|小狗;仓鼠;蛇;兔子|3|Which pet do they both dislike?
+SA|多多家有什么宠物？|一只仓鼠和一只狗。|What pets does Duoduo have? — A hamster and a dog.
+@1.3|2
+TF|皮皮是一只黑色的小狗。|F|皮皮是一只白色的小狗。|Pipi is a black puppy.
+TF|爸爸每天下班以后和皮皮一起玩。|T|爸爸每天下班以后都和皮皮一起玩。|Dad plays with Pipi every day after work.
+MC|皮皮不太喜欢谁？|爸爸;哥哥;妹妹;妈妈|3|Who doesn't Pipi like very much?
+SA|为什么"我"觉得皮皮是我的弟弟？|因为它喜欢和我一起玩。|Why does the writer feel Pipi is like a little brother? — Because it likes playing with them.
+@1.3|3
+TF|小朋友很喜欢去安迪家玩。|F|小朋友不喜欢去他家玩。|The children love going to Andy's home.
+TF|安迪的姐姐最喜欢乌龟，因为它们很安静。|T|姐姐最喜欢乌龟，因为它们很安静。|Andy's sister likes the tortoises most because they are quiet.
+MC|玛丽为什么滑倒了？|她踩到了乌龟;她被狗咬了;地很湿;她跑得太快|1|Why did Mary slip?
+SA|安迪的小鸟看到人会说什么？|"你是谁！"|What does Andy's bird say when it sees people? — "Who are you!"
+@1.4|1
+TF|凯瑞家的厨房很大。|F|厨房不大。|Kerry's kitchen is big.
+TF|最小的房间是凯瑞妹妹的。|T|那个最小的房间是我妹妹的。|The smallest room belongs to Kerry's sister.
+MC|多多不能去看哪个房间？|客厅;厨房;凯瑞的卧室;凯瑞爸妈的房间|4|Which room can't Duoduo go and see?
+SA|多多觉得凯瑞的家怎么样？|很大，很漂亮。|What does Duoduo think of Kerry's home? — Big and beautiful.
+@1.4|2
+TF|"我"的房间很大。|F|我的房间很小。|The writer's room is big.
+TF|爸爸妈妈的房间里有一个卫生间。|T|他们的房间里还有一个卫生间。|Mum and Dad's room has its own bathroom.
+MC|客厅里有什么？|床和衣柜;电视、沙发和茶几;书桌和电脑;床和书桌|2|What is in the living room?
+SA|"我"什么时候可以用姐姐的房间？|等姐姐上大学了。|When can the writer use her sister's room? — When her sister goes to university.
+@1.4|3
+TF|表妹住在公寓里。|T|我表妹住在公寓里。|The cousin lives in an apartment.
+TF|表妹的房间里有一张双人床。|F|她的房间里放着一张单人床。|The cousin's room has a double bed.
+MC|从表妹书桌右边的窗户可以看见什么？|花园;大海;公园;学校|2|What can be seen from the window by her desk?
+SA|表妹累了的时候会做什么？|跟小朋友一起去海里游泳。|What does she do when she is tired? — Goes swimming in the sea with friends.

@@ -1,0 +1,30 @@
+@6.1|1
+TF|宁宁的门牙开始摇摇晃晃。|T|前几天我的门牙开始摇摇晃晃。|Ningning's front tooth is wobbly.
+TF|妈妈让宁宁自己拔牙。|F|妈妈说不要去拔你的牙。|Mum told Ningning to pull the tooth out.
+MC|宁宁为什么不能吃饼干？|为了不碰到这颗牙;饼干太贵;妈妈不让;她不喜欢|1|Why can't Ningning eat biscuits?
+SA|宁宁的牙最后掉在了哪里？|掉在了粥里。|Where did the tooth fall in the end? — Into her porridge.
+@6.1|2
+TF|晶晶和小强六年没见了。|T|因为六年没见了。|Jingjing and Xiaoqiang haven't met for six years.
+TF|小强现在还是瘦瘦小小的。|F|他已经完全变样了，身高有一米八。|Xiaoqiang is still small and thin.
+MC|小强说晶晶怎么了？|变胖了;变瘦了，越来越漂亮;长高了;变黑了|2|What does Xiaoqiang say about Jingjing?
+SA|晶晶为什么脸红了？|小强想像小时候那样抱她转圈。|Why did Jingjing blush? — He wanted to pick her up and spin her like when they were kids.
+@6.2|1
+TF|小杰身体一直很好。|T|身体一直很好。|Xiaojie has always been healthy.
+TF|周三小杰拉肚子。|F|周三他牙疼，周二拉肚子。|On Wednesday Xiaojie had diarrhoea.
+MC|小杰最弱的一门课是什么？|数学;中文;化学;英文|3|What is Xiaojie's weakest subject?
+SA|同学们心里想什么？|这个小杰到底是怎么了？|What do the classmates wonder? — What on earth is wrong with him?
+@6.2|2
+TF|爸爸觉得小安晚上没盖好被子。|T|你肯定是晚上没盖好被子，着凉了！|Dad thinks Xiao'an didn't cover herself at night.
+TF|爷爷觉得应该看西医。|F|爷爷说不能看西医，要看中医。|Grandpa thinks she should see a Western doctor.
+MC|哥哥觉得小安为什么感冒？|天天吃凉性的食物;不运动;洗冷水澡;没盖被子|1|Why does her brother think she caught a cold?
+SA|小安最后说什么？|你们都别说了，我的感冒好了。|What does Xiao'an say in the end? — Stop talking, my cold is better!
+@6.3|1
+TF|"我们"上十年级，学习压力越来越大。|T|学习压力也越来越大。|They are in Year 10 and under growing pressure.
+TF|大家的生活方式都很健康。|F|我们发现各自的生活方式太不健康了。|Everyone's lifestyle is healthy.
+MC|为什么很多人容易近视？|每天上网超过八个小时;不吃早饭;压力太大;抽烟|1|Why do many become short-sighted?
+SA|有的同学因为压力太大开始做什么？|学抽烟。|What do some start doing because of stress? — Smoking.
+@6.3|2
+TF|爷爷不想戒烟戒酒。|T|别逼我戒烟戒酒，那可是我活着的动力！|Grandpa doesn't want to quit smoking and drinking.
+TF|妹妹最爱吃蔬菜。|F|肯德基和麦当劳是她的最爱。|The younger sister loves vegetables most.
+MC|哥哥最开心的事是什么？|睡觉;和朋友上网玩游戏;运动;吃快餐|2|What makes the brother happiest?
+SA|爸爸为什么不吃早餐？|吃早餐要早起、早睡、少加班，少加班就会少赚钱。|Why does Dad skip breakfast? — Breakfast means less overtime and less money.

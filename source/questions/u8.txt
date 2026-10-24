@@ -1,0 +1,30 @@
+@8.1|1
+TF|巴斯有很多古罗马的建筑。|T|巴斯有很多古罗马的建筑。|Bath has many ancient Roman buildings.
+TF|巴斯大学在山下。|F|巴斯大学在山顶，市中心和商业区在山下。|The University of Bath is at the bottom of the hill.
+MC|为什么黄山上房子很少？|中国的山又高又陡;没有人住;太冷了;不让建房子|1|Why are there few houses on Huangshan?
+SA|小萍喜欢和琳达一起做什么？|从山顶慢慢地走下来，一边走一边聊。|What does Xiaoping like doing with Linda? — Walking down the hill slowly, chatting.
+@8.1|2
+TF|长江是中国第一大河。|T|长江是中国第一大河，世界第三大河。|The Yangtze is China's longest river.
+TF|南方人偏爱吃面食。|F|北方人偏爱吃面食，南方人偏爱吃米饭。|Southerners prefer wheat-based food.
+MC|中国的首都在哪里？|上海;北京;香港;云南|2|Where is China's capital?
+SA|南方的天气怎么样？|比较温和，但经常下雨，有时候有台风。|What's the weather like in the south? — Mild, but rainy, sometimes typhoons.
+@8.2|1
+TF|"我"出生的城市比上海小很多。|T|比上海小很多。|The writer's home city is much smaller than Shanghai.
+TF|外滩的对面是南京路。|F|外滩的对面是浦东。|Opposite the Bund is Nanjing Road.
+MC|很多游客去东方明珠的顶楼看什么？|大海;上海的夜景;博物馆;日出|2|What do tourists go to the top of the Pearl Tower to see?
+SA|"我"为什么喜欢去博物馆？|既能放松心情，又能增长知识。|Why does the writer like museums? — Relaxing and you learn things.
+@8.2|2
+TF|迷路的时候，最快的方法是找当地人问路。|T|最快的方法就是找当地人问路了。|When lost, the fastest way is to ask a local.
+TF|"我"分得很清楚东南西北。|F|我分不清楚东南西北。|The writer can easily tell north from south.
+MC|第四个原因是什么问题？|语言问题;时间问题;天气问题;钱的问题|1|What is the fourth reason?
+SA|问路这么麻烦，"我"还喜欢出去逛吗？|还是喜欢出去到处逛逛。|Does the writer still like going out exploring? — Yes.
+@8.3|1
+TF|"我"上个月去了迪拜。|T|上个月我去了迪拜。|The writer went to Dubai last month.
+TF|帆船酒店比"我"想像中的小。|F|比我想像中的更壮观。|The hotel was smaller than imagined.
+MC|让"我"最吃惊的是什么？|帆船酒店;阿拉伯的女人;沙漠;天气|2|What surprised the writer most?
+SA|阿拉伯女人在外面要穿什么？|穿着长袍、戴着面纱。|What do Arab women wear outside? — Robes and veils.
+@8.3|2
+TF|悉尼歌剧院是世界文化遗产之一。|T|也是世界文化遗产之一。|The Sydney Opera House is a World Heritage site.
+TF|悉尼歌剧院的设计师是澳大利亚人。|F|设计师是丹麦人。|The designer was Australian.
+MC|学生的门票多少钱？|24澳元;16.8澳元;30澳元;免费|2|How much is a student ticket?
+SA|歌剧院最引人之处是什么？|它的建筑，白色的贝壳般的外观。|What's most attractive about it? — The white, shell-like building.

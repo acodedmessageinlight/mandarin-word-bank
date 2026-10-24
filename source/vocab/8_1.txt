@@ -1,0 +1,46 @@
+#8.1|天气和地理|Weather and Geography
+田园风光|tián yuán fēng guāng|rural scenery|英国的田园风光很漂亮。|The English countryside scenery is beautiful.
+山顶|shān dǐng|mountaintop|我很想到山顶看日出。|I'd love to watch the sunrise from the mountaintop.
+市中心|shì zhōng xīn|city centre|伦敦市中心非常热闹。|Central London is very lively.
+商业区|shāng yè qū|business district|商业区有各种各样的商店。|The business district has all kinds of shops.
+路边|lù biān|roadside|他有点累，所以把车停在路边休息一下。|He was a bit tired, so he parked by the roadside to rest.
+风格|fēng gé|style|你喜欢什么风格的衣服？|What style of clothes do you like?
+房子|fáng zi|house|市中心的房子都很小。|Houses in the city centre are all small.
+家乡|jiā xiāng|hometown|他今年要回家乡看他的爸爸妈妈。|This year he's going back to his hometown to see his parents.
+之一|zhī yī|one of|画画是我的爱好之一。|Painting is one of my hobbies.
+爬山|pá shān|mountain climbing|爬山是一种很好的运动。|Hiking is a very good form of exercise.
+好奇|hào qí|curious|我们对新来的老师很好奇。|We're curious about the new teacher.
+陡|dǒu|steep|这个山很陡，不容易爬。|This mountain is steep and not easy to climb.
+难怪|nán guài|no wonder|小皮从来不做作业，难怪成绩不好。|Xiao Pi never does homework; no wonder his grades are bad.
+*巴斯|Bā sī|Bath|巴斯是英国一个很漂亮的城市。|Bath is a beautiful city in England.
+*古罗马|Gǔ Luó mǎ|ancient Rome|巴斯有很多古罗马的建筑。|Bath has many ancient Roman buildings.
+*黄山|Huáng Shān|Huangshan (a mountain range in Anhui, China)|黄山是中国很有名的山之一。|Huangshan is one of China's most famous mountains.
+主要的|zhǔ yào de|main|这个国家主要的语言有哪几种？|What are the main languages of this country?
+河流|hé liú|river|这个地区有好几条河流。|This region has several rivers.
+南北|nán běi|south and north|中国有南北之分，所以中国人也分为南方人和北方人。|China is divided into north and south, so Chinese people are also divided into southerners and northerners.
+冬天|dōng tiān|winter|冬天的时候要多穿点衣服。|Wear more clothes in winter.
+寒冷|hán lěng|cold|现在的冬天越来越寒冷。|Winters are getting colder and colder.
+偏爱|piān ài|have a special liking|她偏爱吃甜点。|She has a particular liking for desserts.
+面食|miàn shí|food made of flour|我不喜欢吃面食。|I don't like wheat-based foods.
+首都|shǒu dū|capital|你知道澳大利亚的首都是哪里吗？|Do you know what the capital of Australia is?
+参观|cān guān|visit|我们明天要去参观北京的故宫。|Tomorrow we're visiting the Forbidden City in Beijing.
+古代的|gǔ dài de|ancient|古代的服装真是太美了！|Ancient clothing was so beautiful!
+宫殿|gōng diàn|palace|这个宫殿花了十年才建成。|This palace took ten years to build.
+好汉|hǎo hàn|brave man; hero|好汉做事好汉当。|A true hero takes responsibility for what he does.
+下雨|xià yǔ|to rain|下雨了，开车要小心。|It's raining; drive carefully.
+台风|tái fēng|typhoon|明天有台风，我们还是不要出门了。|There's a typhoon tomorrow; we'd better not go out.
+米饭|mǐ fàn|rice|我喜欢吃米饭，不喜欢吃面条。|I like rice, not noodles.
+大都市|dà dū shì|big city|香港是一个国际大都市。|Hong Kong is an international metropolis.
+少数民族|shǎo shù mín zú|ethnic minority|我很喜欢看少数民族的舞蹈。|I love watching ethnic minority dances.
+地区|dì qū|region|这个地区的河水特别干净。|The river water in this region is especially clean.
+气候|qì hòu|climate|这里的气候适合种苹果。|The climate here is suitable for growing apples.
+游山玩水|yóu shān wán shuǐ|visit various scenic spots|她经常游山玩水。|She often travels around enjoying the scenery.
+*长江|Cháng Jiāng|Yangtze River|长江是中国第一大河。|The Yangtze is China's longest river.
+*黄河|Huáng Hé|Yellow River|黄河是中国第二大河。|The Yellow River is China's second longest river.
+*故宫|Gù Gōng|Forbidden City|很多游客去北京参观故宫。|Many tourists visit the Forbidden City in Beijing.
+*颐和园|Yí hé Yuán|Summer Palace|颐和园是一个很美的皇家花园。|The Summer Palace is a beautiful imperial garden.
+*长城|Cháng Chéng|Great Wall|不到长城非好汉。|He who hasn't been to the Great Wall is not a true hero.
+*上海|Shàng Hǎi|Shanghai|上海是中国南方的国际大都市。|Shanghai is an international city in southern China.
+*香港|Xiāng Gǎng|Hong Kong|香港的购物中心很多。|Hong Kong has many shopping centres.
+*云南|Yún Nán|Yunnan|云南有很多少数民族。|Yunnan has many ethnic minorities.
+*广西|Guǎng Xī|Guangxi|广西的山水很美。|Guangxi's landscapes are beautiful.

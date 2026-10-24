@@ -1,0 +1,45 @@
+@4.1|1
+TF|多多是急性子。|F|多多是慢性子，她妈妈是急性子。|Duoduo is impatient.
+TF|凯瑞的爸爸很啰嗦。|T|我爸爸就很啰嗦，一直说个不停。|Kerry's dad talks too much.
+MC|多多早上为什么伤心？|考试没考好;和妈妈吵架了;迟到了;丢了书包|2|Why was Duoduo sad this morning?
+SA|凯瑞是外向的还是内向的？|内向的。|Is Kerry outgoing or introverted? — Introverted.
+@4.1|2
+TF|外婆那个年代没有电视。|T|在她那个年代，没有电视。|There was no TV in Grandma's time.
+TF|诺诺的偶像是邓丽君。|F|诺诺喜欢王菲，妈妈那个年代大多数人的偶像是邓丽君。|Nuonuo's idol is Teresa Teng.
+MC|大家为什么喜欢邓丽君？|她很酷;长得漂亮，歌也唱得好;她很另类;她会跳舞|2|Why did people like Teresa Teng?
+SA|诺诺觉得王菲是个什么样的歌手？|酷酷的、很另类的歌手。|How does Nuonuo describe Faye Wong? — Cool and unconventional.
+@4.1|3
+TF|罗拉今天眼睛红红的，因为她哭了。|T|她很伤心，因为Zayn离开了。|Lola's eyes are red because she was crying.
+TF|"我"不知道Zayn是谁。|F|"我"故意这么说，Zayn是我妹妹的偶像。|The writer really doesn't know who Zayn is.
+MC|罗拉说Zayn的性格怎么样？|不合群;很好，对人很友好;很啰嗦;很内向|2|What does Lola say Zayn's personality is like?
+SA|罗拉最后去了哪里？|洗手间/厕所。|Where did Lola go in the end? — The toilet.
+@4.2|1
+TF|多多刚才跟她的好朋友吵架了。|T|我刚才跟我的好朋友吵架了！|Duoduo just argued with her best friend.
+TF|好朋友想看《灰姑娘》。|F|多多想看《灰姑娘》，好朋友不想看。|Her friend wants to see Cinderella.
+MC|好朋友说多多怎么样？|太自私;太内向;太啰嗦;太急|1|What does the friend say Duoduo is?
+SA|凯瑞建议多多怎么做？|去向她道歉，她想看什么电影就去看什么电影。|What does Kerry suggest? — Apologise and watch whatever film her friend wants.
+@4.2|2
+TF|小美的生日聚会是化装舞会。|T|她举办了一个化装舞会。|Xiaomei's party was a fancy-dress party.
+TF|"我"是一个很外向的人。|F|我有点内向。|The writer is very outgoing.
+MC|化装舞会的主题是什么？|海盗和美人鱼;明星;动物;学校|1|What was the theme?
+SA|为什么那天来了很多同学？|因为小美很外向，同学们都很喜欢她。|Why did so many classmates come? — Xiaomei is outgoing and popular.
+@4.2|3
+TF|很多年轻人喜欢在网络上结交朋友。|T|越来越多的年轻人喜欢在网络上结交朋友。|Many young people like making friends online.
+TF|网络只有好处，没有坏处。|F|有人在网上说朋友不好，人际关系会变坏。|The internet only has advantages.
+MC|网络给大家提供了什么？|很多机会;很多钱;很多书;很多工作|1|What does the internet give everyone?
+SA|上网聊天有什么坏处？|没有时间和家人朋友面对面地沟通。|What's a downside of chatting online? — No time to talk face to face with family and friends.
+@4.3|1
+TF|凯瑞不喜欢滑冰，因为他怕摔跤。|T|滑冰？我怕摔跤。|Kerry doesn't skate because he's afraid of falling.
+TF|凯瑞的新爱好是滑雪。|F|他的新爱好是滑滑梯。|Kerry's new hobby is skiing.
+MC|凯瑞为什么不滑雪？|太贵;这里不下雪，也没有滑雪场;怕冷;没有时间|2|Why doesn't Kerry ski?
+SA|凯瑞跟谁去滑滑梯？|跟他的小狗。|Who does Kerry go on the slide with? — His puppy.
+@4.3|2
+TF|爸爸每次打球都带上小狗。|T|每次出去打球，都会带上小狗。|Dad always takes the dog when he plays golf.
+TF|爸爸觉得妈妈去球场会很无聊。|T|"你又不会打高尔夫球，去了会觉得很无聊的！"|Dad thinks Mum would be bored at the golf course.
+MC|小狗可以帮爸爸做什么？|开车;捡球;打球;加油|2|What can the dog help Dad with?
+SA|爸爸为什么怀疑了？|因为工作人员都跟妈妈打招呼，说很久不见了。|Why did Dad become suspicious? — The staff all greeted Mum like they knew her.
+@4.3|3
+TF|爸爸的爱好是学习新的语言。|T|他会抽时间学习新的语言，这是他的爱好。|Dad's hobby is learning languages.
+TF|妈妈的字条是让爸爸给汽车加油。|T|"加油"有两个意思：鼓励和给汽车加油。|Mum's note was telling Dad to fill up the car.
+MC|爸爸为什么迷上了学中文？|妈妈是中国人;中国经济越来越好;他要去中国上大学;老师让他学|2|Why did Dad get into learning Chinese?
+SA|路上发生了什么事？|汽车没油了，突然不能开了。|What happened on the way? — The car ran out of petrol.

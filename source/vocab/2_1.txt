@@ -1,0 +1,48 @@
+#2.1|我的学校|My School
+新|xīn|new|我喜欢我的新学校。|I like my new school.
+为什么|wèi shén me|why|你为什么学中文？|Why do you study Chinese?
+很|hěn|very|我的中文很好。|My Chinese is very good.
+同学|tóng xué|classmate|我的同学也学中文。|My classmates also study Chinese.
+还|hái|still|你为什么还没上学？|Why haven't you gone to school yet?
+校服|xiào fú|school uniform|我不喜欢我的校服。|I don't like my school uniform.
+好看|hǎo kàn|good looking|大家都说我很好看！|Everyone says I look good!
+难看|nán kàn|ugly|我的衣服很难看！|My clothes are ugly!
+第一|dì yī|first|第一，我爱上学。第二，我爱我的朋友。|First, I love school. Second, I love my friends.
+一定|yí dìng|surely; certainly|爸爸一定要我学中文。|Dad insists that I learn Chinese.
+耐心|nài xīn|patience|妈妈很有耐心地给我讲故事。|Mum tells me stories very patiently.
+太|tài|too; over|这只小狗太可爱了。|This puppy is so cute.
+足球场|zú qiú chǎng|football field|我们去足球场踢球。|We go to the football pitch to play.
+操场|cāo chǎng|field|我们学校没有操场。|Our school has no sports ground.
+餐厅|cān tīng|cafeteria|我们学校餐厅的东西不好吃，但是好看。|The food in our school canteen doesn't taste good, but it looks good.
+东西|dōng xi|thing|这是什么东西？|What is this thing?
+好吃|hǎo chī|delicious|苹果很好吃。|Apples are delicious.
+贵|guì|expensive|这本书贵吗？|Is this book expensive?
+图书馆|tú shū guǎn|library|学校的图书馆里有很多书。|The school library has lots of books.
+游泳池|yóu yǒng chí|swimming pool|我们学校有两个游泳池。|Our school has two swimming pools.
+考试|kǎo shì|exam|我们天天有考试。|We have exams every day.
+难|nán|difficult; hard|我们的考试都很难。|Our exams are all hard.
+怎么样|zěn me yàng|how|那个图书馆怎么样？|What's that library like?
+设施|shè shī|facilities|你学校的设施好吗？|Are your school's facilities good?
+网球场|wǎng qiú chǎng|tennis court|这个网球场很新。|This tennis court is very new.
+礼堂|lǐ táng|hall|我学校的礼堂很小。|My school's hall is small.
+实验室|shí yàn shì|laboratory|学校的实验室很大。|The school lab is big.
+最棒的|zuì bàng de|best|我们学校是最棒的！|Our school is the best!
+游乐场|yóu lè chǎng|playground|海边的游乐场很好玩。|The playground by the sea is great fun.
+学习|xué xí|learn; study|我们一起学习中文。|We study Chinese together.
+不同的|bù tóng de|different|我们来自不同的国家。|We come from different countries.
+非常|fēi cháng|very; extremely|我的学校非常好。|My school is extremely good.
+友好|yǒu hǎo|friendly|我的邻居很友好。|My neighbours are very friendly.
+常常|cháng cháng|often|我常常和小狗玩。|I often play with my puppy.
+做作业|zuò zuò yè|do homework|为什么总是要做作业呢？|Why do we always have to do homework?
+爱心|ài xīn|compassion|你是有爱心的人吗？|Are you a caring person?
+无论…都…|wú lùn…dōu…|no matter|无论什么时候，爸爸妈妈都很爱我。|No matter when, Mum and Dad love me very much.
+遍|biàn|(for actions) time|老师把生词教了三遍。|The teacher taught the new words three times.
+像|xiàng|be like|你长得像谁？|Who do you look like?
+*小学|xiǎo xué|primary school|我弟弟在小学上学。|My little brother goes to primary school.
+*中学|zhōng xué|middle school|我在一所国际学校上中学。|I go to secondary school at an international school.
+*大学|dà xué|university|哥哥在英国上大学。|My brother is at university in the UK.
+*私立学校|sī lì xué xiào|private school|这是一所私立学校。|This is a private school.
+*公立学校|gōng lì xué xiào|public school|我在公立学校读书。|I study at a state school.
+*国际学校|guó jì xué xiào|international school|我在国际学校上学。|I go to an international school.
+*初中|chū zhōng|junior high school|初中有三年。|Junior high lasts three years.
+*高中|gāo zhōng|high school|高中也有三年。|Senior high also lasts three years.

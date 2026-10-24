@@ -1,0 +1,45 @@
+#3.1|我的一天|My Daily Routine
+早上|zǎo shang|morning|早上天气很好。|The weather is nice in the morning.
+几点|jǐ diǎn|what time|你几点上课？|What time do your lessons start?
+起床|qǐ chuáng|get out of bed|昨天你几点起床？|What time did you get up yesterday?
+晚上|wǎn shang|night, evening|晚上你几点吃饭？|What time do you eat in the evening?
+睡觉|shuì jiào|sleep|我每天十点睡觉。|I go to bed at ten every day.
+晚|wǎn|late|现在很晚了。|It's very late now.
+不用|bú yòng|no need|今天不用做作业。|There's no homework today.
+累|lèi|tired|我很累。|I'm very tired.
+先|xiān|first|我先起床，然后上学。|First I get up, then I go to school.
+洗澡|xǐ zǎo|have a bath; take a shower|我每天都洗澡。|I shower every day.
+早饭|zǎo fàn|breakfast|我常常不吃早饭。|I often skip breakfast.
+穿|chuān|wear|他穿着校服上学。|He wears his uniform to school.
+然后|rán hòu|afterwards; thereafter|我先吃饭，然后刷牙。|I eat first, then brush my teeth.
+刻|kè|quarter of an hour|姐姐六点一刻起床。|My sister gets up at quarter past six.
+半|bàn|half of an hour|我六点半吃早饭。|I eat breakfast at half past six.
+开始|kāi shǐ|start; begin|我明天早上开始跑步。|I'm starting to go running tomorrow morning.
+中午|zhōng wǔ|noon|中午总是很热。|It's always hot at noon.
+午饭|wǔ fàn|lunch|你几点吃午饭？|What time do you have lunch?
+下午|xià wǔ|afternoon|下午我有很多课外活动。|I have lots of activities in the afternoon.
+一…就…|yī…jiù…|as soon as; right after|我一回家就做作业。|As soon as I get home I do my homework.|一，就
+回家|huí jiā|return home|我爸爸每天晚上七点回家。|My dad gets home at seven every evening.
+晚饭|wǎn fàn|dinner|妈妈做的晚饭很好吃。|Mum's dinners are delicious.
+会考|huì kǎo|general examination|会考以后我去美国玩。|After the exams I'm going to America.
+所以|suǒ yǐ|therefore; so|我喜欢唱歌，所以参加了合唱团。|I like singing, so I joined the choir.
+困|kùn|sleepy|我睡得太少，所以白天很困。|I sleep too little, so I'm sleepy during the day.
+开车|kāi chē|drive a car|我妈妈每天开车上班。|My mum drives to work every day.
+超速|chāo sù|exceed the speed limit|开车不可以超速。|You mustn't speed when driving.
+罚单|fá dān|speeding ticket|妈妈收到了三张罚单。|Mum got three tickets.
+烦恼|fán nǎo|worry|我每天有烦恼，也有快乐。|Every day I have worries and joys.
+赶快|gǎn kuài|quickly|放学后，我赶快做作业。|After school I hurry to do my homework.
+教室|jiào shì|classroom|我的中文教室很大。|My Chinese classroom is big.
+突然|tū rán|suddenly|上课时他突然说话。|He suddenly spoke during class.
+发现|fā xiàn|discover|老师发现我没有带书包。|The teacher noticed I hadn't brought my bag.
+忘|wàng|forget|我常常忘了带课本。|I often forget to bring my textbook.
+带|dài|bring|我每天都带午饭去学校。|I bring lunch to school every day.
+发呆|fā dāi|be in a daze|我上课经常发呆。|I often daydream in class.
+迟到|chí dào|be late|上学不能迟到。|You mustn't be late for school.
+下课|xià kè|finish class; class ends|我们都想早点下课。|We all want class to finish early.
+钱包|qián bāo|wallet|上个星期我的钱包丢了。|I lost my wallet last week.
+饿|è|hungry|我们饿了就去餐厅吃饭。|When we're hungry we go to the canteen.
+休息|xiū xi|rest|放学后要好好休息。|Rest well after school.
+又饥又渴|yòu jī yòu kě|hungry and thirsty|我没有吃早饭，现在又饥又渴。|I didn't have breakfast; now I'm hungry and thirsty.
+今后|jīn hòu|from now on; in the future|今后我要当律师。|In the future I want to be a lawyer.
+按时|àn shí|on time|我们要按时吃饭和睡觉。|We should eat and sleep at regular times.

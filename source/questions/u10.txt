@@ -1,0 +1,30 @@
+@10.1|1
+TF|杰克的外婆是中国人。|T|外婆是中国人。|Jack's grandmother (mum's side) is Chinese.
+TF|杰克觉得自己的身材很好。|F|他觉得自己的身材不够好。|Jack thinks he has a good figure.
+MC|杰克为什么要减肥？|为了讨好他的女朋友;医生让他减;为了比赛;妈妈让他减|1|Why does Jack want to lose weight?
+SA|杰克每天放学后做什么？|跑去健身房锻炼两个小时。|What does Jack do after school? — Exercises at the gym for two hours.
+@10.1|2
+TF|丽娟要去看BigBang的演唱会。|T|她要去看韩国的BigBang的演唱会。|Lijuan wants to see BigBang in concert.
+TF|爸爸给丽娟钱买票。|F|爸爸不给她钱买票。|Dad gives her money for a ticket.
+MC|丽娟觉得追星有什么好处？|可以减轻压力;可以交朋友;可以学韩语;可以赚钱|1|What benefit of being a fan does Lijuan mention?
+SA|老师对爸爸说了什么？|追星很普遍，不能一棍子打死，要好好沟通。|What does the teacher tell Dad? — It's common, don't dismiss it, talk it through.
+@10.2|1
+TF|极限运动很危险，但是很多人都喜欢。|T|运动虽然很危险，但是很多人都很喜欢。|Extreme sports are dangerous but many like them.
+TF|极限运动对身体不好。|F|它对身体很好。|Extreme sports are bad for your body.
+MC|下面哪个是极限运动？|跳伞;散步;钓鱼;看电视|1|Which is an extreme sport?
+SA|极限运动培养了青少年什么精神？|吃苦的精神。|What spirit do extreme sports develop? — Being able to endure hardship.
+@10.2|2
+TF|小强是一个宅男。|T|小强却是一个宅男。|Xiaoqiang is a homebody.
+TF|小强很喜欢户外活动。|F|他对户外活动不是太感兴趣。|Xiaoqiang loves outdoor activities.
+MC|小强周末在家做什么？|看书;看电视或玩电子游戏;做作业;做饭|2|What does he do at home at weekends?
+SA|妈妈最后开始要求小强做什么？|减少上网的时间。|What does Mum start asking him to do? — Spend less time online.
+@10.3|1
+TF|机器人老师越来越受学生喜爱。|T|机器人老师越来越受学生喜爱。|Robot teachers are increasingly popular.
+TF|机器人老师常常批评学生。|F|学生们怕老师批评，可是机器人老师不会这样。|Robot teachers often criticise students.
+MC|校长觉得最重要的是什么？|机器人不用请假，也不要求涨工资;机器人会唱歌;机器人很可爱;机器人会说英语|1|What does the head teacher think matters most?
+SA|机器人老师能完全替代真人老师吗？|不能，它只是学校教育中的调剂。|Can robots completely replace real teachers? — No, they're just a supplement.
+@10.3|2
+TF|最常见的应用软件是天气软件。|T|平时我们最常见的应用软件是天气软件。|The most common app is the weather app.
+TF|健身步行软件只能记录走路的步数。|F|可以记录一天的运动情况，还能上传到朋友圈。|The fitness app only records steps.
+MC|"字宝宝笔顺笔画查询"可以告诉我们什么？|字的笔顺和笔画;天气;走了多少步;字的英文|1|What does the character app tell us?
+SA|为什么枯燥的散步变得有意思了？|可以和朋友比赛走路。|Why has boring walking become interesting? — You can compete with friends.

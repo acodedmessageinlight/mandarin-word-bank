@@ -1,0 +1,60 @@
+@2.1|1
+TF|凯瑞不喜欢他的老师。|F|他的老师很好。|Kerry doesn't like his teachers.
+TF|凯瑞觉得他的校服很难看。|T|"我的校服很难看！"|Kerry thinks his uniform is ugly.
+MC|凯瑞为什么有的时候不喜欢学校？|老师不好;同学不好;校服不好;作业太多|3|Why does Kerry sometimes not like his school?
+SA|凯瑞觉得谁的校服更漂亮？|多多学校的校服。|Whose uniform does Kerry think is prettier? — Duoduo's school's.
+@2.1|2
+TF|小云的学校有一个很大的足球场。|F|学校太小，没有足球场，只有一个操场。|Xiaoyun's school has a big football field.
+TF|学校餐厅的东西不好吃，而且很贵。|T|餐厅的东西不好吃，而且还很贵。|The canteen food is bad and expensive.
+MC|小云喜欢学校的什么？|校服;老师;同学们;图书馆|3|What does Xiaoyun like about her school?
+SA|小云为什么不喜欢她的老师？|老师们对他们不好，没有耐心。|Why doesn't she like her teachers? — They aren't nice and have no patience.
+@2.1|3
+TF|这所国际学校的设施很好。|T|国际学校很大，设施也很好。|This international school has good facilities.
+TF|同学们都来自同一个国家。|F|同学们来自不同的国家。|The classmates all come from the same country.
+MC|学校最棒的是什么？|有两个游乐场;有大实验室;有游泳池;有礼堂|1|What is the best thing about the school?
+SA|"我"常常和好朋友在游乐场做什么？|吃午饭、聊天、做作业。|What does the writer do in the playground with friends? — Eat lunch, chat and do homework.
+@2.2|1
+TF|多多今年学八门课。|F|多多学六门课，凯瑞学八门课。|Duoduo is taking eight subjects this year.
+TF|多多最不喜欢数学课。|T|因为数学很难。|Duoduo likes maths least.
+MC|凯瑞最喜欢哪门课？|音乐课;数学课;英文课;中文课|3|Which subject does Kerry like most?
+SA|多多哪门课学得最好？|中文。|Which subject is Duoduo best at? — Chinese.
+@2.2|2
+TF|"我"不喜欢体育，因为体育老师很严格。|T|因为体育老师很严格。|The writer dislikes PE because the teacher is strict.
+TF|"我"觉得学科学很有用。|F|我觉得学科学没用。|The writer thinks science is useful.
+MC|"我"为什么喜欢地理？|老师很好;想去不同的国家玩;喜欢画画;考试很容易|2|Why does the writer like geography?
+SA|"我"最喜欢的科目是什么？|中文和英文。|What are the writer's favourite subjects? — Chinese and English.
+@2.2|3
+TF|"我"今年要学十一门课。|T|我今年要学十一门课。|The writer is taking eleven subjects this year.
+TF|"我"很想学历史。|F|我一点都不想学历史。|The writer really wants to study history.
+MC|为什么"我"不得不学历史？|历史很有意思;爸爸是我的历史老师;历史考试很容易;朋友都学历史|2|Why does the writer have to study history?
+SA|"我"为什么喜欢科学课？|因为实验室很大，可以做很多有意思的实验。|Why does the writer like science? — The lab is big and they do interesting experiments.
+@2.3|1
+TF|多多今年只有一个课外活动。|T|我今年只有一个课外活动。|Duoduo has only one activity this year.
+TF|多多每个星期三打羽毛球。|F|她每个星期五打羽毛球。|Duoduo plays badminton every Wednesday.
+MC|凯瑞参加了几个课外活动？|一个;三个;五个;七个|3|How many activities does Kerry do?
+SA|凯瑞最喜欢哪个活动？|每个活动他都喜欢。|Which activity does Kerry like most? — He likes them all.
+@2.3|2
+TF|妈妈觉得"我"应该参加课外活动。|F|妈妈说我不应该参加课外活动，要准备考试。|Mum thinks the writer should do activities.
+TF|"我"篮球打得很好。|T|因为我篮球打得很好。|The writer is good at basketball.
+MC|"我"为什么每天都很忙？|要做家务;明年要参加中学会考;要上班;要照顾妹妹|2|Why is the writer busy every day?
+SA|爸爸为什么觉得"我"应该参加课外活动？|他觉得课外活动可以帮助我的学习。|Why does Dad think the writer should do activities? — They help with studying.
+@2.3|3
+TF|星期二"我"学弹钢琴。|T|星期二，我学弹钢琴。|The writer learns piano on Tuesdays.
+TF|"我"是学校篮球队的队长。|F|我是学校排球队的队长。|The writer is captain of the basketball team.
+MC|星期一和星期三放学以后"我"有什么训练？|游泳;橄榄球;排球;乒乓球|1|What training does the writer have on Mondays and Wednesdays?
+SA|每次游泳训练多长时间？要游多少米？|两个小时，要游五千米。|How long is swimming training, and how far? — Two hours, 5000 m.
+@2.4|1
+TF|多多的书包很轻。|F|她的书包好重。|Duoduo's bag is light.
+TF|多多每天有六节课。|T|我每天有六节课。|Duoduo has six lessons a day.
+MC|多多为什么还带了浴巾？|下课后要去游泳;要洗澡;天气很热;要去海边|1|Why did Duoduo bring a towel?
+SA|多多觉得最可怜的是什么？|教室在六楼，还不可以坐电梯。|What does Duoduo think is the worst part? — The classroom is on the 6th floor and she can't use the lift.
+@2.4|2
+TF|图书管理员一开始说"我"不可以借书。|T|图书管理员却说我不可以借。|At first the librarian said the writer couldn't borrow the book.
+TF|"我"最后借到了那本书。|F|莉莉把那本书借走了。|The writer finally borrowed the book.
+MC|图书管理员为什么说对不起？|她把名字弄错了;她丢了书;她迟到了;她生气了|1|Why did the librarian apologise?
+SA|"我"为什么"哭笑不得"？|因为莉莉把我想借的书借走了。|Why didn't the writer know whether to laugh or cry? — Lili had borrowed the book.
+@2.4|3
+TF|小卖部只卖文具和课本。|F|它还卖校服、糖果、点心、冰淇淋和可乐。|The tuck shop only sells stationery and textbooks.
+TF|每天放学后很多学生排队买可乐。|T|每天一放学，就有很多学生在那里排队。|Many students queue up after school.
+MC|很多学校为什么不卖糖果和可乐？|太贵了;为了学生的健康;学生不喜欢;没有地方|2|Why do many schools not sell sweets and cola?
+SA|老师觉得喝什么好？|喝果汁好。|What does the teacher think is better to drink? — Juice.

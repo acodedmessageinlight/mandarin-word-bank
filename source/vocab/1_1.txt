@@ -1,0 +1,64 @@
+#1.1|我|About Me
+你|nǐ|you (singular)|你好！|Hello!
+你好|nǐ hǎo|hello|你好！我是多多。|Hello! I'm Duoduo.
+我|wǒ|I; me|我是凯瑞。|I'm Kerry.
+是|shì|am; is; are (verb "to be")|我是中国人。|I'm Chinese.
+叫|jiào|call; be called|我叫多多。|My name is Duoduo.
+人|rén|person, people|我是英国人。|I'm British.
+住|zhù|live|我住在英国。|I live in the UK.
+在|zài|at; in|我住在中国。|I live in China.
+哪里|nǎ lǐ|where|你住在哪里？|Where do you live?
+生日|shēng rì|birthday|我的生日是三月二十五号。|My birthday is 25 March.
+月|yuè|month; moon|四月六日是我的生日。|6 April is my birthday.
+号|hào|date (spoken Chinese)|十二月二十号是多多的生日。|20 December is Duoduo's birthday.
+几|jǐ|how many|你的生日是几月几号？|When is your birthday?
+日|rì|date (written Chinese)|我的生日是九月五日。|My birthday is 5 September.
+多大|duō dà|how old|你多大？|How old are you?
+岁|suì|year (of age)|我九岁。|I'm nine years old.
+今年|jīn nián|this year|我今年十二岁。|I'm twelve this year.
+年级|nián jí|grade; level|我上十年级。|I'm in Year 10.
+上学|shàng xué|attend school|我不喜欢上学。|I don't like going to school.
+喜欢|xǐ huan|like|我不喜欢我的哥哥。|I don't like my older brother.
+我的|wǒ de|my|我的学校很大。|My school is big.
+学校|xué xiào|school|我喜欢我的学校。|I like my school.
+学|xué|learn, study|我喜欢学中文。|I like learning Chinese.
+会|huì|can; be able to|你会说中文吗？|Can you speak Chinese?
+说|shuō|speak|我们不说英语，好吗？|Let's not speak English, OK?
+不|bù|no; not|我不会写字。|I can't write characters.
+大家|dà jiā|all; everyone|我们大家都喜欢学中文。|We all like learning Chinese.
+介绍|jiè shào|introduce|你能介绍一下你的好朋友吗？|Can you introduce your best friend?
+自己|zì jǐ|oneself|我介绍一下我自己。|Let me introduce myself.
+姓|xìng|surname|你姓什么？|What's your surname?
+来自|lái zì|come from|我来自中国。|I come from China.
+出生|chū shēng|be born|你是在哪一年出生的？|Which year were you born?
+去过|qù guo|have been to|我去过日本，没有去过韩国。|I've been to Japan but not to Korea.
+等|děng|and so on|我去过中国、美国、英国等国家。|I've been to China, the US, the UK and other countries.
+和|hé|and|昨天我和小丽去学校。|Yesterday Xiaoli and I went to school.
+最|zuì|the most|你最喜欢吃什么？|What do you like eating most?
+*中国|Zhōng guó|China|我是中国人。|I'm Chinese.
+*英国|Yīng guó|Great Britain; UK|英国人说英语。|British people speak English.
+*美国|Měi guó|USA; America|我去过美国。|I've been to America.
+*澳大利亚|Ào dà lì yà|Australia|玛丽是澳大利亚人。|Mary is Australian.
+*加拿大|Jiā ná dà|Canada|加拿大的冬天很冷。|Winter in Canada is very cold.
+*新加坡|Xīn jiā pō|Singapore|我住在新加坡。|I live in Singapore.
+*新西兰|Xīn xī lán|New Zealand|新西兰很漂亮。|New Zealand is beautiful.
+*马来西亚|Mǎ lái xī yà|Malaysia|马来西亚在新加坡的北边。|Malaysia is north of Singapore.
+*印度|Yìn dù|India|我来自印度。|I come from India.
+*印度尼西亚|Yìn dù ní xī yà|Indonesia (印尼 Yìn ní)|王大力来自印度尼西亚。|Wang Dali comes from Indonesia.
+*西班牙|Xī bān yá|Spain|我想去西班牙旅行。|I want to travel to Spain.
+*德国|Dé guó|Germany|德国人说德语。|Germans speak German.
+*法国|Fǎ guó|France|我不会说法语，可是我去过法国。|I can't speak French, but I've been to France.
+*荷兰|Hé lán|the Netherlands; Holland|荷兰有很多花。|The Netherlands has lots of flowers.
+*俄罗斯|É luó sī|Russia|俄罗斯是一个很大的国家。|Russia is a very big country.
+*头|tóu|head|我的头很大。|My head is big.
+*头发|tóu fa|hair|我的头发长长的。|My hair is long.
+*眼睛|yǎn jing|eye|她的眼睛大大的。|Her eyes are big.
+*鼻子|bí zi|nose|他的鼻子高高的。|His nose is high.
+*嘴巴|zuǐ ba|mouth|我的嘴巴大大的。|My mouth is big.
+*耳朵|ěr duo|ear|兔子的耳朵很长。|Rabbits' ears are long.
+*长|cháng|long|妹妹的头发很长。|My sister's hair is long.
+*短|duǎn|short|哥哥的头发很短。|My brother's hair is short.
+*大|dà|big|我的学校很大。|My school is big.
+*小|xiǎo|small|他的眼睛小小的。|His eyes are small.
+*高|gāo|tall; high|爸爸很高。|Dad is tall.
+*矮|ǎi|short|我比哥哥矮。|I'm shorter than my brother.

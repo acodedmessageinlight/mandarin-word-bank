@@ -1,0 +1,60 @@
+@3.1|1
+TF|多多每天早上七点起床。|T|我每天早上七点起床。|Duoduo gets up at 7 every morning.
+TF|凯瑞晚上十一点睡觉。|F|凯瑞晚上八点睡觉，多多十一点睡觉。|Kerry goes to bed at 11 pm.
+MC|凯瑞为什么那么累？|作业太多;每天都有课外活动;睡得太晚;生病了|2|Why is Kerry so tired?
+SA|凯瑞早上几点起床？起床以后做什么？|五点起床，起床以后做作业。|When does Kerry get up, and what does he do then? — 5 am; he does homework.
+@3.1|2
+TF|"我"八点半开始上课。|T|八点半开始上课。|Lessons start at 8:30.
+TF|"我"每天晚上十点就睡觉了。|F|睡觉的时候总是晚上十一点半了。|The writer goes to bed at 10 pm.
+MC|一放学"我"要做什么？|回家;参加课外活动;吃晚饭;做作业|2|What does the writer do straight after school?
+SA|为什么作业很多？|因为明年要参加会考，每个老师都给作业。|Why is there so much homework? — Exams next year; every teacher gives homework.
+@3.1|3
+TF|妈妈开车超速了。|T|原来妈妈超速了！|Mum was speeding.
+TF|"我"那天带了课本和钱包。|F|我忘了带课本，也忘了带钱包。|The writer brought her textbook and wallet that day.
+MC|老师为什么给"我"开了罚单？|上课说话;迟到又不带课本;没做作业;玩手机|2|Why did the teacher give the writer a "ticket"?
+SA|"我"今后一定要做什么？|按时起床。|What will the writer make sure to do from now on? — Get up on time.
+@3.2|1
+TF|凯瑞觉得出租车太贵了。|T|出租车太贵了。|Kerry thinks taxis are too expensive.
+TF|他们最后骑自行车去。|F|他们没有自行车，最后坐出租车去地铁站，然后坐地铁。|In the end they cycle there.
+MC|多多为什么不想坐公共汽车？|太贵;太慢;太挤;太远|2|Why doesn't Duoduo want to take the bus?
+SA|他们要去做什么？|去看/参加下午的篮球比赛。|Where are they going? — To the afternoon basketball match.
+@3.2|2
+TF|坐公共汽车很便宜。|T|虽然慢，但是很便宜。|The bus is cheap.
+TF|去小岛可以坐地铁。|F|如果去小岛，得坐渡轮。|You can take the metro to the island.
+MC|塞车的时候，什么是最好的交通工具？|出租车;公共汽车;地铁;自行车|3|What is the best transport in a traffic jam?
+SA|"我"每天怎么上学？为什么？|走路上学，因为家离学校很近。|How does the writer get to school, and why? — Walks, because home is near school.
+@3.2|3
+TF|中国以前是一个自行车王国。|T|中国以前是一个自行车王国。|China used to be a "bicycle kingdom".
+TF|在新加坡，每个人都能买得起汽车。|F|不是每个新加坡人都能买得起汽车。|Everyone in Singapore can afford a car.
+MC|新加坡为什么把汽车卖得很贵？|为了赚钱;不让交通太拥挤;汽车很少;路很窄|2|Why does Singapore make cars so expensive?
+SA|为什么说骑自行车上班"一举两得"？|又环保，又可以免费健身。|Why is cycling to work "two birds with one stone"? — It's green and free exercise.
+@3.3|1
+TF|多多上个周末搬家了。|T|是的，我们搬家了。|Duoduo moved house last weekend.
+TF|多多以前的邻居很喜欢小孩子。|F|他们不喜欢小孩子，也不喜欢狗。|Duoduo's old neighbours liked children.
+MC|新邻居给了多多家什么？|一本书;一个蛋糕;一只小狗;一束花|2|What did the new neighbours give Duoduo's family?
+SA|凯瑞现在想做什么？|去多多家吃巧克力蛋糕，看看新邻居。|What does Kerry want to do now? — Go to Duoduo's to eat cake and see the neighbours.
+@3.3|2
+TF|雪莉已经七十多岁了。|T|她已经七十多岁了。|Shirley is over seventy.
+TF|雪莉现在的脾气很好。|F|现在老了，脾气也不好了。|Shirley has a good temper now.
+MC|"我"把球扔到了哪里？|花园里;雪莉家窗子里;湖里;楼上|2|Where did the writer throw the ball?
+SA|晚上妈妈带"我"去做什么？|去雪莉家道歉。|What did Mum take the writer to do that evening? — Apologise to Shirley.
+@3.3|3
+TF|安安认识楼里很多人。|F|他总是低着头玩手机，楼里的人他谁也不认识。|Anan knows lots of people in the building.
+TF|那些大孩子们输了比赛。|T|结果那些大孩子们输了。|The older kids lost the match.
+MC|安安为什么叫来了保安？|大孩子们打人;大孩子们不肯走;球丢了;有人受伤|2|Why did Anan call the security guard?
+SA|那些大孩子们住在哪里？|和安安住在同一栋楼。|Where do the older kids live? — In the same building as Anan.
+@3.4|1
+TF|多多家楼下有花、有草、有树。|T|有花、有草、有树，可漂亮了！|Below Duoduo's building there are flowers, grass and trees.
+TF|凯瑞家楼下有一个网球场。|F|凯瑞家楼下有篮球场和小湖，多多家楼下有网球场。|Kerry's building has a tennis court.
+MC|凯瑞觉得他家楼下的什么一定是最大的？|篮球场;小湖;游泳池;花园|3|What does Kerry think is definitely the biggest?
+SA|凯瑞家楼下有什么？|一个小湖、一个篮球场和一个游泳池。|What is below Kerry's building? — A small lake, a basketball court and a pool.
+@3.4|2
+TF|便利店开到晚上十二点。|T|便利店，开到晚上十二点。|The convenience store is open until midnight.
+TF|青少年活动中心在辛迪家后面。|F|活动中心在公共汽车站对面，大湖在家后面。|The youth centre is behind Cindy's home.
+MC|辛迪最喜欢做什么？|打网球;在湖边走走，喂鸭子;健身;买东西|2|What does Cindy like doing most?
+SA|辛迪在活动中心参加什么运动？|打网球、打羽毛球和健身。|What sports does Cindy do at the centre? — Tennis, badminton and working out.
+@3.4|3
+TF|爱玛家周围的环境很好。|F|她家周围环境很不好。|Emma's neighbourhood is very nice.
+TF|爱玛每天早上四点就被吵醒了。|T|每天早上四点她就被吵醒了。|Emma is woken up at 4 am every day.
+MC|晚上什么地方很吵？|菜市场;学校;卡拉OK店和酒吧;公园|3|What is noisy at night?
+SA|爱玛为什么没办法专心读书？|因为楼下太吵了。|Why can't Emma concentrate on studying? — It's too noisy downstairs.

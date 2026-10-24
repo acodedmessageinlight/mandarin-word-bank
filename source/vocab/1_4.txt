@@ -1,0 +1,44 @@
+#1.4|我的家|My Home
+做客|zuò kè|be a guest|欢迎你来我家做客。|You're welcome to visit my home.
+客厅|kè tīng|living room|我家有一个小客厅。|My home has a small living room.
+饭厅|fàn tīng|dining room|我家没有饭厅。|My home has no dining room.
+厨房|chú fáng|kitchen|我在厨房吃饭。|I eat in the kitchen.
+厕所|cè suǒ|toilet|我家有三个厕所。|My home has three toilets.
+卫生间|wèi shēng jiān|toilet|卫生间和厕所一样吗？|Is 卫生间 the same as 厕所?
+卧室|wò shì|bedroom|你家有几个卧室？|How many bedrooms does your home have?
+更|gèng|even more|我妈妈的房间更大。|My mum's room is even bigger.
+不能|bù néng|cannot|我们不能养宠物了。|We can't keep pets any more.
+一共|yí gòng|in total|我家一共有五口人。|There are five people in my family in total.
+电视|diàn shì|television|我家有两台电视。|My home has two TVs.
+沙发|shā fā|sofa|我家的沙发很大。|Our sofa is big.
+茶几|chá jī|coffee table|我家的茶几是棕色的。|Our coffee table is brown.
+床|chuáng|bed|房间里有两张床。|There are two beds in the room.
+书桌|shū zhuō|study desk|书桌上有很多书。|There are lots of books on the desk.
+椅子|yǐ zi|chair|桌子旁边有很多椅子。|There are lots of chairs next to the table.
+电脑|diàn nǎo|computer|大家都用苹果电脑。|Everyone uses Apple computers.
+里面|lǐ miàn|in; inside|客厅里面有沙发和电视。|There's a sofa and a TV in the living room.
+衣柜|yī guì|wardrobe|我的卧室里没有衣柜。|There's no wardrobe in my bedroom.
+上大学|shàng dà xué|go to college|我想去美国上大学。|I want to go to university in America.
+公寓|gōng yù|apartment; condominium|我住在公寓里。|I live in an apartment.
+书房|shū fáng|study (room)|我爸爸有自己的书房。|My dad has his own study.
+浴室|yù shì|bathroom|浴室是用来洗澡的。|The bathroom is for bathing.
+花园|huā yuán|yard; garden|我家的花园很大。|Our garden is big.
+主卧室|zhǔ wò shì|master bedroom|爸爸妈妈的卧室是主卧室。|My parents' bedroom is the master bedroom.
+双人床|shuāng rén chuáng|double bed|主卧室里有一张双人床。|There's a double bed in the master bedroom.
+单人床|dān rén chuáng|single bed|我没有双人床，只有单人床。|I don't have a double bed, only a single bed.
+贴|tiē|paste|我的房间贴了明星海报。|I've put up celebrity posters in my room.
+明星|míng xīng|celebrity|你最喜欢的明星是谁？|Who's your favourite celebrity?
+海报|hǎi bào|poster|我有很多明星海报。|I have lots of celebrity posters.
+窗户|chuāng hù|window|我的卧室没有窗户。|My bedroom has no window.
+大海|dà hǎi|sea|我想去看大海。|I want to go and see the sea.
+*欢迎|huān yíng|welcome|欢迎你来我家做客。|You're welcome to visit my home.
+*谢谢|xiè xie|thank you|谢谢你！|Thank you!
+*请进|qǐng jìn|please come in|请进，请进。|Please come in.
+*对不起|duì bu qǐ|sorry|对不起，我们不能去！|Sorry, we can't go!
+*真|zhēn|really; truly|你家真大。|Your home is really big.
+*好|hǎo|very; so|你的房间好漂亮。|Your room is so beautiful.
+*上面|shàng miàn|above|书桌上面有很多书。|There are lots of books on the desk.
+*下面|xià miàn|below|床下面有一只猫。|There's a cat under the bed.
+*外面|wài miàn|outside|客厅外面是一个花园。|Outside the living room is a garden.
+*左边|zuǒ biān|left|房间的左边是梳妆台。|On the left of the room is a dressing table.
+*右边|yòu biān|right|书桌的右边是一个窗户。|To the right of the desk is a window.

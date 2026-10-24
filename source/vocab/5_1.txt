@@ -1,0 +1,78 @@
+#5.1|食物和饮料|Food and Beverage
+汉堡包|hàn bǎo bāo|burger|我昨天午饭吃了汉堡包。|I had a burger for lunch yesterday.
+快餐|kuài cān|fast food|快餐很方便，但是不健康。|Fast food is convenient but unhealthy.
+身体|shēn tǐ|body|我经常运动，身体很好。|I exercise often and I'm very healthy.
+重要|zhòng yào|important|一日三餐很重要。|Three meals a day are important.
+面条|miàn tiáo|noodles|我妹妹喜欢吃面条，我喜欢吃米饭。|My sister likes noodles; I like rice.
+鸡蛋|jī dàn|egg|我哥哥一天吃三个鸡蛋。|My brother eats three eggs a day.
+牛奶|niú nǎi|milk|我早上喝一杯牛奶、一杯果汁。|In the morning I drink a glass of milk and a glass of juice.
+面包|miàn bāo|bread|法国面包非常好吃。|French bread is delicious.
+西式|xī shì|Western style|我们学校餐厅有西式午餐。|Our school canteen has Western-style lunches.
+早餐|zǎo cān|breakfast|每天我吃了早餐再上学。|Every day I have breakfast before school.
+中式|zhōng shì|Chinese style|我家附近有中式餐厅，也有西式餐厅。|Near my home there are Chinese and Western restaurants.
+豆浆|dòu jiāng|soya bean milk|豆浆和牛奶一样好喝。|Soy milk tastes as good as milk.
+油条|yóu tiáo|deep-fried dough sticks|油条和豆浆是妈妈最爱吃的早餐。|Fried dough sticks and soy milk are Mum's favourite breakfast.
+馒头|mán tou|steamed bun|馒头和面包很不一样。|Steamed buns are very different from bread.
+包子|bāo zi|steamed stuff bun|肉包子和菜包子都很好吃。|Meat buns and vegetable buns are both delicious.
+粥|zhōu|porridge|粥的做法有很多种。|There are many ways to make congee.
+叉烧包|chā shāo bāo|barbeque pork bun|我从那家餐厅买了叉烧包。|I bought char siu buns from that restaurant.
+小笼包|xiǎo lóng bāo|soup dumpling|爸爸觉得上海的小笼包最好吃。|Dad thinks Shanghai's soup dumplings are the best.
+没问题|méi wèn tí|no problem|明天去打球没问题。|Playing ball tomorrow is no problem.
+燕麦粥|yàn mài zhōu|oats porridge|燕麦粥对身体特别好。|Oat porridge is especially good for you.
+建筑|jiàn zhù|architecture|我很喜欢英国的建筑。|I really like British architecture.
+印象|yìn xiàng|impression|她给我的印象很好。|She made a good impression on me.
+深|shēn|deep|这个湖很深。|This lake is deep.
+食物|shí wù|food|学校的食物真不错。|The school food is really good.
+有名|yǒu míng|famous|这个地方最有名的是它的建筑。|This place is most famous for its architecture.
+海鲜|hǎi xiān|seafood|你喜欢吃海鲜吗？|Do you like seafood?
+饮料|yǐn liào|beverage|喝太多饮料对身体不好。|Drinking too many soft drinks is bad for you.
+特色|tè sè|characteristic; distinctive feature|小笼包是这家餐厅的特色。|Soup dumplings are this restaurant's speciality.
+天气|tiān qì|weather|今天天气真好！|The weather is lovely today!
+热|rè|hot|天一热，我就想吃冰淇淋。|As soon as it gets hot I want ice cream.
+美味可口|měi wèi kě kǒu|delicious; scrumptious|妈妈做的饭总是美味可口。|Mum's cooking is always delicious.
+价格|jià gé|price|这里的东西价格不贵。|Prices here aren't expensive.
+美食天堂|měi shí tiān táng|food paradise|新加坡是一个美食天堂。|Singapore is a food paradise.
+发愁|fā chóu|troubled|下个星期的考试让我很发愁。|Next week's exam is worrying me.
+飞机|fēi jī|airplane|我明天坐飞机去上海。|Tomorrow I'm flying to Shanghai.
+计划|jì huà|plan|我计划下个月去韩国玩。|I plan to visit Korea next month.
+薯条|shǔ tiáo|chips; french fries|妈妈不让我经常吃薯条。|Mum doesn't let me eat chips often.
+西餐厅|xī cān tīng|Western restaurant|这家西餐厅的食物不大好吃。|The food at this Western restaurant isn't very good.
+牛排|niú pái|steak|这里的牛排非常贵。|The steak here is very expensive.
+尝|cháng|taste|来尝尝这个肉包子吧！|Come and try this meat bun!
+小吃|xiǎo chī|snack|北京和西安有很多特色小吃。|Beijing and Xi'an have lots of local snacks.
+担心|dān xīn|worry|我担心这次考试考不好。|I'm worried I'll do badly in this exam.
+吃不惯|chī bú guàn|not used to eating (something)|我的妹妹吃不惯中餐。|My sister isn't used to Chinese food.
+建议|jiàn yì|suggest; advise|我的老师建议我少喝饮料。|My teacher advised me to drink fewer soft drinks.
+家常菜|jiā cháng cài|home-style dish|我奶奶做的家常菜非常好吃。|Grandma's home cooking is delicious.
+翻译|fān yì|translate|这本书翻译得不错。|This book is well translated.
+*虾|xiā|prawn|海鲜饭里有虾。|The seafood paella has prawns.
+*鱿鱼|yóu yú|squid|我不喜欢吃鱿鱼。|I don't like squid.
+*鸡肉|jī ròu|chicken|鸡肉很好吃。|Chicken is delicious.
+*香肠|xiāng cháng|sausage|早餐我吃了两根香肠。|I had two sausages for breakfast.
+*青豆|qīng dòu|green peas|弟弟不喜欢吃青豆。|My brother doesn't like peas.
+*洋葱|yáng cōng|onion|洋葱让我流眼泪。|Onions make me cry.
+*西瓜|xī guā|watermelon|夏天我喜欢吃西瓜。|I like watermelon in summer.
+*芒果|máng guǒ|mango|芒果汁很好喝。|Mango juice is tasty.
+*苹果|píng guǒ|apple|苹果很好吃。|Apples are delicious.
+*汽酒|qì jiǔ|sparkling wine|西班牙汽酒非常有名。|Spanish sparkling wine is very famous.
+*啤酒|pí jiǔ|beer|爸爸每天喝啤酒。|Dad drinks beer every day.
+*红酒|hóng jiǔ|red wine|妈妈喝红酒。|Mum drinks red wine.
+*白酒|bái jiǔ|spirit|爷爷喜欢喝白酒。|Grandpa likes drinking baijiu.
+*人民币|rén mín bì|Renminbi (Chinese currency)|这本书二十块人民币。|This book is twenty yuan.
+*英镑|yīng bàng|pound sterling|英国用英镑。|Britain uses pounds.
+*美元|měi yuán|US dollar|这个手机三百美元。|This phone is 300 US dollars.
+*厦门|Xià mén|Xiamen|丽娜要来厦门看成成。|Lina is coming to Xiamen to see Chengcheng.
+*鼓浪屿|Gǔ làng yǔ|Kulangsu Island|鼓浪屿是厦门好玩的地方之一。|Gulangyu is one of Xiamen's fun places.
+*麦当劳|Mài dāng láo|McDonald's|我不想去麦当劳吃汉堡包。|I don't want a burger at McDonald's.
+*肯德基|Kěn dé jī|KFC (Kentucky)|肯德基的薯条很好吃。|KFC's chips are tasty.
+*面线糊|miàn xiàn hú|rice noodles gruel|面线糊是厦门的特色小吃。|Noodle gruel is a Xiamen speciality snack.
+*海蛎煎|hǎi lì jiān|oyster omelette|海蛎煎很好吃。|Oyster omelette is delicious.
+*炒面|chǎo miàn|fried noodles|我今天的晚餐是炒面。|My dinner today is fried noodles.
+*蛋炒饭|dàn chǎo fàn|fried rice with eggs|蛋炒饭的做法很简单。|Egg fried rice is easy to make.
+*西红柿蛋汤|xī hóng shì dàn tāng|tomato and egg soup|妈妈做了西红柿蛋汤。|Mum made tomato and egg soup.
+*麻婆豆腐|má pó dòu fu|spicy bean curd (mapo tofu)|麻婆豆腐很辣。|Mapo tofu is very spicy.
+*宫保鸡丁|gōng bǎo jī dīng|Kung Pao chicken|宫保鸡丁是一道家常菜。|Kung Pao chicken is a home-style dish.
+*蚂蚁上树|mǎ yǐ shàng shù|Ants Climbing a Tree (Sichuan dish)|蚂蚁上树就是肉末炒粉丝。|"Ants climbing a tree" is minced meat with glass noodles.
+*肉末炒粉丝|ròu mò chǎo fěn sī|stir-fried shredded meat with cellophane noodles|我喜欢吃肉末炒粉丝。|I like minced meat with glass noodles.
+*猪肉|zhū ròu|pork|北方人喜欢猪肉饺子。|Northerners like pork dumplings.
+*羊肉|yáng ròu|lamb; mutton|冬天吃羊肉很好。|Lamb is good to eat in winter.

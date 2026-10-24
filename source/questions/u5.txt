@@ -1,0 +1,45 @@
+@5.1|1
+TF|凯瑞喜欢吃快餐。|T|我喜欢吃快餐。|Kerry likes fast food.
+TF|多多的爸爸妈妈喜欢吃西式早餐。|F|他们只吃中式早餐。|Duoduo's parents like Western breakfasts.
+MC|多多早上吃什么？|汉堡包;面条、鸡蛋，喝牛奶;油条和豆浆;小笼包|2|What does Duoduo eat in the morning?
+SA|明天多多的妈妈会给凯瑞准备什么？|小笼包和粥。|What will Duoduo's mum make Kerry tomorrow? — Soup dumplings and porridge.
+@5.1|2
+TF|西班牙的海鲜饭里有虾和鱿鱼。|T|里面有虾、鱿鱼、鸡肉、香肠、青豆、洋葱等等。|Spanish paella has prawns and squid.
+TF|西班牙的食物很贵。|F|价格又便宜。|Spanish food is expensive.
+MC|给"我"印象最深的是什么？|大海;建筑;食物;天气|3|What impressed the writer most?
+SA|为什么西班牙人都喜欢喝果汁？|因为天气热。|Why do people in Spain like drinking juice? — Because it's hot.
+@5.1|3
+TF|丽娜要从澳大利亚来厦门。|T|丽娜要从澳大利亚坐飞机来厦门看他。|Lina is coming from Australia to Xiamen.
+TF|成成要带丽娜去吃麦当劳。|F|他觉得不能带她去吃麦当劳和肯德基。|Chengcheng will take Lina to McDonald's.
+MC|成成担心什么？|丽娜吃不惯海鲜;丽娜不来;没有钱;下雨|1|What is Chengcheng worried about?
+SA|妈妈给了成成什么建议？|在家里吃妈妈做的家常菜。|What did Mum suggest? — Eat home cooking at home.
+@5.2|1
+TF|凯瑞觉得咕噜肉和柠檬鸡是真正的中餐。|T|他说"我喜欢中餐，比如咕噜肉、柠檬鸡"，但多多说那不是真正的中餐。|Kerry thinks sweet-and-sour pork is real Chinese food.
+TF|多多的舅舅是老师。|F|舅舅是厨师。|Duoduo's uncle is a teacher.
+MC|中餐馆为什么把菜的味道改变了？|为了让外国人喜欢;为了便宜;为了健康;为了好看|1|Why have restaurants changed the flavours?
+SA|今天多多请凯瑞吃什么菜？|四川菜。|What food is Duoduo treating Kerry to? — Sichuan food.
+@5.2|2
+TF|北方的猪肉饺子最常见。|T|其中北方的猪肉饺子最常见。|Pork dumplings from the north are the most common.
+TF|饺子的做法很难。|F|饺子的做法非常简单。|Dumplings are hard to make.
+MC|做饺子的第一步是什么？|把水烧开;把猪肉和韭菜切碎;把馅包进饺子皮里;加调料|2|What's the first step?
+SA|水再烧开以后要加什么？|加入一些冷水。|What do you add after the water boils again? — Some cold water.
+@5.2|3
+TF|这家法国餐厅建于1847年。|T|这家法国餐厅建于1847年。|This French restaurant was built in 1847.
+TF|套餐每位24欧元。|F|套餐48欧元/位。|The set meal is €24 per person.
+MC|酒吧区几点关门？|晚上十点;晚上十二点;凌晨一点;凌晨两点|3|When does the bar area close?
+SA|可以怎么去这家餐厅？|坐地铁5号线，或者坐7路公共汽车。|How can you get there? — Metro line 5 or bus 7.
+@5.3|1
+TF|凯瑞他们做了蛋炒饭。|T|蛋炒饭，这是大家都喜欢吃的。|They made egg fried rice.
+TF|他们每个人用了不同的菜谱。|F|我们只用一本菜谱。|They each used a different recipe.
+MC|为什么每个人做出来的味道都不一样？|菜谱里说"一点盐""适量"，不清楚;材料不同;锅不同;有人不会做|1|Why does everyone's dish taste different?
+SA|多多明天想做什么？|她也要试一试做中餐。|What does Duoduo want to do tomorrow? — Try cooking Chinese food too.
+@5.3|2
+TF|弗兰克是"我"的室友。|T|我从德国来的室友弗兰克。|Frank is the writer's roommate.
+TF|弗兰克同意AA制。|F|弗兰克不同意，他觉得自己应该多付。|Frank agrees to split the bill evenly.
+MC|弗兰克为什么觉得他应该付30元？|他吃得最多，还点了甜点;他最有钱;今天是他的生日;他想请客|1|Why does Frank think he should pay ¥30?
+SA|"我"觉得怎么买单最简单？|轮流买单。|What does the writer think is simplest? — Taking turns to pay.
+@5.3|3
+TF|凯龙去安安家前查看了Youtube。|T|他还特地查看了Youtube。|Kailong checked YouTube before going.
+TF|安安家的鱼是从菜市场买的。|F|安安去钓了很多鱼。|The fish was bought at the market.
+MC|凯龙为什么把鱼吃光了？|很好吃;他很饿;怕没有礼貌;安安让他吃|3|Why did Kailong finish the whole fish?
+SA|在中国，客人吃饱了应该怎么做？|剩一点饭菜。|In China, what should a full guest do? — Leave a little food.

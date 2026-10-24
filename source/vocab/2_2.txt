@@ -1,0 +1,28 @@
+#2.2|科目|Subjects
+课|kè|subject; course|我今年学十四门课！|I'm taking fourteen subjects this year!
+音乐|yīn yuè|music|一周有几节音乐课？|How many music lessons are there a week?
+数学|shù xué|mathematics|你喜欢数学课吗？|Do you like maths lessons?
+科目|kē mù|subject|我学很多科目。|I study lots of subjects.
+地理|dì lǐ|geography|我觉得地理课很有意思。|I think geography is very interesting.
+历史|lì shǐ|history|我的历史很好。|I'm good at history.
+科学|kē xué|science|我喜欢科学课。|I like science lessons.
+体育|tǐ yù|physical education|我哥哥体育很好。|My brother is good at PE.
+严格|yán gé|strict|妈妈对哥哥很严格。|Mum is very strict with my brother.
+没用|méi yòng|useless|爸爸觉得学美术没用。|Dad thinks studying art is useless.
+美术|měi shù|art|我最喜欢美术课。|I like art lessons most.
+画画|huà huà|drawing|我觉得画画很好玩。|I think drawing is fun.
+有用|yǒu yòng|useful|我觉得学历史很有用。|I think studying history is useful.
+交流大会|jiāo liú dà huì|forum|我们学校每年有英文交流大会。|Our school has an English forum every year.
+开心|kāi xīn|happy|我每天上学很开心。|I'm happy going to school every day.
+生物|shēng wù|biology|我觉得生物不难。|I don't think biology is hard.
+化学|huà xué|chemistry|我们的化学课很有意思。|Our chemistry lessons are very interesting.
+物理|wù lǐ|physics|我觉得物理很难。|I think physics is hard.
+戏剧|xì jù|drama|我喜欢戏剧课。|I like drama lessons.
+不得不|bù dé bù|have to|今天我不得不做作业。|Today I have to do my homework.
+迷|mí|fan; enthusiast|哥哥是音乐迷。|My brother is a music fan.
+让|ràng|make; let|爸爸总让我做数学。|Dad always makes me do maths.
+当然|dāng rán|certainly; of course|我们当然喜欢玩电脑。|Of course we like playing on the computer.
+问题|wèn tí|question; problem|有问题要问老师。|If you have a question, ask the teacher.
+有意思|yǒu yì si|interesting|我觉得中文有意思。|I think Chinese is interesting.
+*门|mén|(measure word for subjects)|我今年学六门课。|I'm taking six subjects this year.
+*必须|bì xū|must|学中文必须要学汉字。|To learn Chinese you must learn characters.

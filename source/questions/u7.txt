@@ -1,0 +1,30 @@
+@7.1|1
+TF|他们要去北京国际机场。|T|去北京国际机场。|They are going to Beijing International Airport.
+TF|他们决定坐地铁去机场。|F|他们坐出租车去。|They decide to take the metro.
+MC|为什么需要一辆小面包车？|人很多;行李很多;路很远;很便宜|2|Why do they need a van?
+SA|司机多久后到饭店大厅？|五分钟后。|When will the driver reach the hotel lobby? — In five minutes.
+@7.1|2
+TF|这次旅行是妈妈做的计划。|F|妈妈没时间，我和弟弟负责准备。|Mum planned this trip.
+TF|他们上个寒假去过美国。|T|爸爸说我们上个寒假去过美国了。|They went to America last winter holiday.
+MC|订机票的时候发现了什么问题？|没有钱;弟弟的护照过期了;机票卖完了;没有签证|2|What problem came up when booking flights?
+SA|他们的计划有什么问题？|忘记了时差，把入住时间搞错了。|What was wrong with the plan? — They forgot the time difference and got the check-in time wrong.
+@7.2|1
+TF|"我们"学校一年有三个假期。|T|我们学校一年有三个假期。|The school has three holidays a year.
+TF|复活节假期有四个星期。|F|只有两个星期。|The Easter holiday is four weeks long.
+MC|今年复活节"我"去了哪里？|泰国;越南;日本;新加坡|2|Where did the writer go this Easter?
+SA|一出机场，"我"看见了什么？|成排的摩托车。|What did the writer see outside the airport? — Rows of motorbikes.
+@7.2|2
+TF|新加坡一年到头都是夏天。|T|新加坡一年到头都是夏天。|It's summer all year in Singapore.
+TF|新加坡的东西都很便宜。|F|什么都有，但价格不便宜，除非碰到大减价。|Everything in Singapore is cheap.
+MC|孩子们最爱新加坡的什么地方？|动物园;购物中心;巴刹;酒店|1|What's the kids' favourite place?
+SA|"我"觉得最有趣的事情是什么？|去巴刹讨价还价。|What did the writer find most fun? — Bargaining at the market.
+@7.3|1
+TF|大部分零用钱是爷爷奶奶或者爸爸妈妈给的。|T|大部分的零用钱是爷爷、奶奶，或者爸爸、妈妈给的。|Most pocket money comes from grandparents or parents.
+TF|洗一次碗可以拿20元。|F|洗一次碗10元，洗一次衣服20元。|Washing the dishes once earns ¥20.
+MC|绝大多数的学生把钱花在什么上？|买书;买衣服;买零食;捐款|3|What do most students spend money on?
+SA|立德用零用钱买什么？|买电脑游戏。|What does Lide buy? — Computer games.
+@7.3|2
+TF|网上购物没有时间和地点的限制。|T|没有时间、地点的限制。|Online shopping has no time or place limits.
+TF|网上买东西可以试穿衣服。|F|最不好的是不能试穿衣服。|You can try clothes on when shopping online.
+MC|小刚觉得网购有什么问题？|东西太贵;不满意的话换很麻烦;不安全;很慢|2|What problem does Xiaogang mention?
+SA|网上购物有哪些优点？|方便、快捷、价格便宜。|What are the advantages? — Convenient, fast, cheap.

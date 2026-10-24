@@ -1,0 +1,20 @@
+@9.1|1
+TF|在父母的年代，有个好工作比上大学更重要。|T|有个好工作比上大学更重要。|In our parents' time, a good job mattered more than university.
+TF|亚洲学生普遍喜欢读人文和艺术。|F|亚洲学生喜欢实用性强的科目，西方学生会选择人文、艺术。|Asian students tend to choose humanities and art.
+MC|哪个是实用性强的科目？|艺术;人文;医科;经济|3|Which is a "practical" subject?
+SA|在台湾，一块砖头砸到三个人，其中会有什么人？|两个硕士，一个博士。|In the joke, who are the three people hit by a brick? — Two master's graduates and a PhD.
+@9.1|2
+TF|成都爸爸觉得捡垃圾比读大学强。|T|"捡垃圾比读大学强"。|The Chengdu dad thinks collecting rubbish beats going to university.
+TF|玲玲不喜欢读书。|F|玲玲很喜欢读书。|Lingling doesn't like studying.
+MC|爸爸为什么不愿意出学费？|没有钱;觉得读完大学可能找不到工作;玲玲成绩不好;大学太远|2|Why won't the dad pay the fees?
+SA|玲玲觉得读书有什么好处？|能增长知识、开阔眼界、改变命运。|What does Lingling think studying gives you? — Knowledge, broader horizons, a better future.
+@9.2|1
+TF|爱玛在九年级时去了一个新学校。|T|爱玛在九年级时去了一个新学校。|Emma moved to a new school in Year 9.
+TF|爱玛以前常常做义工。|F|她几乎从来没有做过义工。|Emma often volunteered before.
+MC|爱玛第一次做义工去了哪里？|孤儿院;医院;老人院;学校|3|Where did Emma volunteer the first time?
+SA|爱玛现在希望做什么？|今后可以经常去做义工。|What does Emma hope now? — To volunteer often.
+@9.2|2
+TF|美眉觉得高中生找工作很难。|T|找工作实在难！太难！极其难！|"Meimei" thinks it's hard for students to find jobs.
+TF|开心苹果同意高中生暑期打工。|F|我不同意高中生暑期打工。|"Happy Apple" supports summer jobs.
+MC|我最酷觉得做暑期工怎么样？|利大于弊;弊大于利;很浪费时间;很危险|1|What does "Coolest" think?
+SA|当红小生为什么觉得做暑期工好？|可以吃点苦，明白赚钱不容易，更加独立。|Why does "Rising Star" think summer jobs are good? — You learn hardship and earning money isn't easy, and become independent.

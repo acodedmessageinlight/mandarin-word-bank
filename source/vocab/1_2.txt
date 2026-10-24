@@ -1,0 +1,61 @@
+#1.2|我的家人|My Family
+这|zhè|this|这是我的哥哥。|This is my older brother.
+一家|yì jiā|a family|你们一家有几口人？|How many people are in your family?
+他|tā|he; him|他是我爸爸。|He's my dad.
+爷爷|yé ye|grandfather (paternal)|爷爷今年六十八岁。|Grandpa is 68 this year.
+她|tā|she; her|她是美国人。|She's American.
+奶奶|nǎi nai|grandmother (paternal)|奶奶今年六十六岁。|Grandma is 66 this year.
+狗|gǒu|dog|我喜欢小狗。|I like puppies.
+它|tā|it|它几岁了？|How old is it?
+两|liǎng|two|我妹妹两岁了。|My little sister is two.
+弟弟|dì di|younger brother|弟弟的生日是六月七号。|My little brother's birthday is 7 June.
+哥哥|gē ge|elder brother|我哥哥很帅。|My older brother is handsome.
+那|nà|that|那是我的弟弟。|That's my little brother.
+爸爸|bà ba|father|爸爸是老师。|Dad is a teacher.
+妈妈|mā ma|mother|这是我妈妈。|This is my mum.
+也|yě|also; too|我也有一只小狗。|I also have a puppy.
+家人|jiā rén|family member|我爱我的家人。|I love my family.
+口|kǒu|(used for members in a family)|他家有四口人。|There are four people in his family.
+姐姐|jiě jie|elder sister|我姐姐十六岁。|My older sister is sixteen.
+医生|yī shēng|doctor|他爸爸是医生。|His dad is a doctor.
+帅|shuài|good looking|我哥哥很帅。|My older brother is handsome.
+老师|lǎo shī|teacher|我妈妈是英语老师。|My mum is an English teacher.
+漂亮|piào liang|beautiful|我姐姐很漂亮。|My older sister is beautiful.
+大学生|dà xué shēng|college student|我不是大学生。|I'm not a university student.
+胖|pàng|fat|我哥哥不胖也不瘦。|My brother is neither fat nor thin.
+中学生|zhōng xué shēng|secondary school student|我们是中学生。|We're secondary school students.
+瘦|shòu|thin|我哥哥不胖也不瘦。|My brother is neither fat nor thin.
+猫|māo|cat|他有三只猫。|He has three cats.
+圆圆的|yuán yuan de|round|弟弟有圆圆的眼睛。|My little brother has round eyes.
+可爱|kě ài|adorable|小狗很可爱。|The puppy is very cute.
+吃鱼|chī yú|eat fish|小狗不喜欢吃鱼。|The puppy doesn't like eating fish.
+爱|ài|love|我爱我的家人。|I love my family.
+双胞胎|shuāng bāo tāi|twins|我们学校有三对双胞胎。|Our school has three pairs of twins.
+商人|shāng rén|businessman|我的爸爸是商人，很忙。|My dad is a businessman and very busy.
+教书|jiāo shū|teach|我妈妈在学校教书。|My mum teaches at a school.
+比|bǐ|compared with; than|哥哥比我大六岁。|My brother is six years older than me.
+但是|dàn shì|but|弟弟比我小两岁，但是他比我高。|My brother is two years younger than me, but he's taller.
+因为|yīn wèi|because|因为爸爸是商人，他去过很多国家。|Because Dad is a businessman, he has been to many countries.
+工作|gōng zuò|job; work|妈妈的工作是老师。|Mum's job is teaching.
+现在|xiàn zài|now|我现在是中学生。|I'm a secondary school student now.
+了解|liǎo jiě|understand|我想了解法国文化。|I want to understand French culture.
+文化|wén huà|culture|我喜欢中国文化。|I like Chinese culture.
+聊天|liáo tiān|chat|我姐姐不忙，因为她跟很多朋友聊天。|My sister isn't busy, because she chats with lots of friends.
+将来|jiāng lái|in the future|我将来想做商人。|I want to be a businessperson in the future.
+律师|lǜ shī|lawyer|我不想做律师。|I don't want to be a lawyer.
+唱歌|chàng gē|sing|我和姐姐都喜欢唱歌。|My sister and I both like singing.
+经常|jīng cháng|often|我们经常一起聊天。|We often chat together.
+卡拉OK|kǎ lā OK|karaoke|那个律师不喜欢唱歌，但是天天去卡拉OK。|That lawyer doesn't like singing, but goes to karaoke every day.|卡拉欧克
+*外公|wài gōng|grandfather (maternal)|外公住在上海。|My grandpa on my mum's side lives in Shanghai.
+*外婆|wài pó|grandmother (maternal)|外婆做的菜很好吃。|Grandma's cooking is delicious.
+*伯伯|bó bo|uncle (father's elder brother)|伯伯是工程师。|My uncle is an engineer.
+*叔叔|shū shu|uncle (father's younger brother)|叔叔是警察。|My uncle is a policeman.
+*姑姑|gū gu|aunt (father's sister)|姑姑是护士。|My aunt is a nurse.
+*舅舅|jiù jiu|uncle (mother's brother)|舅舅是医生。|My uncle is a doctor.
+*姨妈|yí mā|aunt (mother's sister); also 阿姨 ā yí|姨妈是家庭主妇。|My aunt is a housewife.
+*妹妹|mèi mei|younger sister|我妹妹两岁了。|My little sister is two.
+*工程师|gōng chéng shī|engineer|伯伯是工程师。|My uncle is an engineer.
+*警察|jǐng chá|policeman|叔叔是警察。|My uncle is a policeman.
+*护士|hù shi|nurse|姑姑是护士。|My aunt is a nurse.
+*家庭主妇|jiā tíng zhǔ fù|housewife|阿姨是家庭主妇。|My aunt is a housewife.
+*记者|jì zhě|journalist|姐姐是记者。|My older sister is a journalist.
